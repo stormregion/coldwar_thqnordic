@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<MenuSettings>
+    <StartingVideos>
+        <Style
+            Video = "MenuVideo/thqnordic_logo.avi"
+            Music = ""
+        />
+	<Style
+            Video = "MenuVideo/innoglow.avi"
+            Music = ""
+        />
+        <Style
+            Video = "MenuVideo/Storm_Logo.avi"
+            Music = ""
+        />
+    </StartingVideos>
+    <Styles>
+        <Style
+            Video = "MenuVideo/MV_1_S.avi"
+            Music = "Menuvideo/MV_1_S.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_2.avi"
+            Music = "MenuVideo/MV_2.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_3_S.avi"
+            Music = "MenuVideo/MV_3_S.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_4.avi"
+            Music = "MenuVideo/MV_4.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_5_S.avi"
+            Music = "MenuVideo/MV_5_S.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_6.avi"
+            Music = "MenuVideo/MV_6.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_7_S.avi"
+            Music = "MenuVideo/MV_7_S.wav"
+        />
+        <Style
+            Video = "MenuVideo/MV_8.avi"
+            Music = "MenuVideo/MV_8.wav"
+        />        
+    </Styles>
+</MenuSettings>

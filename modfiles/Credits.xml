@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Credits>
+	<Text
+	 Text = "bads.tm"
+         TimeToStart = "0.0"
+         Speed = "9"
+         Position = "0"
+         />
+	<Text
+	 Text = "[Credits text 01]"
+         TimeToStart = "0.0"
+         Speed = "9"
+         Position = "2"
+         />
+ 	<Text
+	 Text = "[Credits text 02]"
+         TimeToStart = "43.3"
+         Speed = "12"
+         Position = "0"
+	 />
+ 	<Text
+	 Text = "[Credits text 03]"
+         TimeToStart = "144.2"
+         Speed = "9"
+         Position = "2"
+	 />
+ 	<Text
+	 Text = "[Credits text 04]"
+         TimeToStart = "294"
+         Speed = "5"
+         Position = "1"
+	 />
+	  	<Text
+	 Text = "[Credits text 05]"
+         TimeToStart = "295"
+         Speed = "5"
+         Position = "3"
+	 />
+	 	  	<Text
+	 Text = "Now Published by: THQNordic (c) 2016^
+	 Mod by bads.tm (c) 2017
+         TimeToStart = "295"
+         Speed = "5"
+         Position = "3"
+	 />
+</Credits>
